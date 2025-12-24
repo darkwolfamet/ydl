@@ -35,17 +35,8 @@ pip install -r requirements.txt
 
 ## Usage
 Run the tool:
-
+```bash
 python ydl.py
 
----
 
-## Contributing
 
-Fork the repository.
-
-Make changes in your fork.
-
-Submit a pull request.
-
-All contributions are welcome, but you must follow coding standards and test your changes.
