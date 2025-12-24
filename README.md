@@ -27,7 +27,7 @@ Ydl .A simple Python-based command-line tool that lets you download YouTube vide
 
 ## Install dependencies with:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ---
 
