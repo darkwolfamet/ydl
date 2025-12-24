@@ -1,9 +1,7 @@
-# ydl
+# Ydl
 Ydl .A simple Python-based command-line tool that lets you download YouTube videos, audio, or extract audio from videos directly to your Linux machine. Users can choose the output folder, file naming, and download format, making it an easy-to-use terminal downloader powered by yt-dlp.
 
-# Ydl
-
-**Ydl** is a simple Python-based command-line tool to download YouTube videos, audio, or extract audio from videos directly to your Linux machine. It allows users to choose the output folder, file naming, and download format, making it easy to use in the terminal.
+**Ydl**  downloads YouTube videos, audio, or extract audio from videos directly to your Linux machine. It allows users to choose the output folder, file naming, and download format, making it easy to use in the terminal.
 
 ---
 
@@ -35,8 +33,18 @@ pip install -r requirements.txt
 
 ## Usage
 Run the tool:
-```bash
-python ydl.py
 
+    python ydl.py
 
+---
+
+## Contributing
+
+Fork the repository.
+
+Make changes in your fork.
+
+Submit a pull request.
+
+All contributions are welcome, but you must follow coding standards and test your changes.
 
