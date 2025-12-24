@@ -46,7 +46,7 @@ def space():
 
 #--------------------ACTUAL-SYSTEM----------------------------------------------#
 
-print("         Welcome to the 2nd test trial            ")
+print("         Welcome to the Ydl. The best tool for youtube downloading      ")
 space()
 
 
@@ -108,11 +108,10 @@ if not url:
 media_format = input("""
                
 What format will you like your video to be:
-    Video
-    Audio
-    Extract    [This is where the audio is extraced from your file]
-               
-               """).lower().strip()
+Video
+Audio
+Extract    [This is where the audio is extraced from your file]   
+What is your choice: """).lower().strip()
 space()
 
 FORMAT_OPTIONS = {
@@ -172,8 +171,8 @@ extract_options = {
 }
 
 
-print("Downloading....")     
+print("📥 Downloading....")     
 
 download(url,media_format)
 
-print("Thank you for using 'ydl' ")
+print("Thank you for using 'ydl' ✅  ")
