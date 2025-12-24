@@ -46,7 +46,7 @@ def space():
 
 #--------------------ACTUAL-SYSTEM----------------------------------------------#
 
-print("         Welcome to the Ydl. The best tool for youtube downloading      ")
+print("      Welcome to the Ydl. The best tool for youtube downloading      ")
 space()
 
 
